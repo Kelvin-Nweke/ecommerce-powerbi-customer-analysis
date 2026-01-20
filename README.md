@@ -34,7 +34,6 @@ The dashboard is designed for **business stakeholders** to quickly understand:
 - Regional sales performance
 - Payment method filtering
 
-![Ecommerce Performance Overview](screenshots/page1_ecommerce_performance.png)
 
 ---
 
@@ -51,7 +50,6 @@ The dashboard is designed for **business stakeholders** to quickly understand:
 - Average pages viewed by customer type
 - Delivery experience rating
 
-![Customer Behavior & Retention](screenshots/page2_customer_behavior.png)
 
 ---
 
@@ -66,9 +64,9 @@ The dashboard is designed for **business stakeholders** to quickly understand:
 ---
 
 ## 📂 Files Included
-- `dashboard/`: Power BI (.pbix) file
-- `data/`: Original dataset used
-- `screenshots/`: Dashboard preview images
+- Dashboard: Power BI (.pbix) file
+- Data: Original dataset used
+- Screenshots: Dashboard preview images
 
 ---
 
